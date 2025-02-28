@@ -1,0 +1,11 @@
+---
+author: Megan Hoover
+title: "lab_attendance"
+format: html
+editor: visual
+
+execute: 
+  echo: true
+---
+
+## I've learned how to make a repository, send it to github, make a website, and to clean data.
